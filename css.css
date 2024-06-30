@@ -1,0 +1,60 @@
+#pix    {
+        position: fixed;
+        margin: -1%;
+        margin-top: -5.3%;
+        float: left;
+        width: 8%;
+        height: 9%;
+        }
+
+#header {
+
+        text-align:center;
+        background-color: aqua;
+        margin-top: -1%;
+        margin-left: -0.51%;
+        margin-right: -0.51%;
+        margin-bottom: 1%;
+        background-size: 3%;
+        padding: 1%;
+        }
+/* code above covers index, project and achievement top page*/
+        
+hr      { 
+        margin-top:-1%;
+        margin-left: -1%;
+        width: 101.4%;
+
+        }
+/*adds a line after the header in a page to give a little distinctive look*/
+
+ul      {
+        list-style-type:none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color:black;
+        width: 100.5%;
+        padding: none;
+        overflow: hidden;
+        font-size: larger;
+        padding-left: 1%;
+        margin-top: -0.5%;
+        margin-left: -1%;
+       
+        }
+li a    {
+        color: rgb(255, 255, 255);
+        }
+
+li a:hover{
+        background-color: aliceblue;
+        color: brown;
+        }
+
+
+
+/*starting point of project_html*/
+
+
+
+        
+        
